@@ -7,7 +7,7 @@
 <img width=20% src="https://github.com/Jaqkee/Jaqkee/assets/162545884/bcef11fd-864e-47ad-b326-270814096863"/>
 
 
-## Portfolio Analista de Sistemas:
+## Portfolio Analista de Qualidade de Sistemas:
 https://jaqkee.github.io/PortfolioQA/
 
 
